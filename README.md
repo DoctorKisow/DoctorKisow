@@ -6,7 +6,7 @@
 ![](https://img.shields.io/badge/code-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
 ## Social Media
-Find me on [![Twitter][1.2]][1], or [![LinkedIn][3.2]][3].
+Find me on [![Twitter][1.2]][1], [![Twitter][4.2]][4], or [![LinkedIn][3.2]][3].
 
 
 
@@ -25,7 +25,7 @@ Find me on [![Twitter][1.2]][1], or [![LinkedIn][3.2]][3].
 [1]: https://twitter.com/DoctorKisow
 [2]: https://github.com/DoctorKisow
 [3]: https://www.linkedin.com/in/matthewkisow/
-[3]: https://https://keybase.io/doctorkisow
+[4]: https://https://keybase.io/doctorkisow
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
