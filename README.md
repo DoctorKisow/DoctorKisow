@@ -1,3 +1,6 @@
+#Doctor Kisow
+Information systems professor with a passion for learning and sharing my knowledge with others as publicly as possible.
+
 ## Skills
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=macOS&logoColor=white&color=2bbc8a)
