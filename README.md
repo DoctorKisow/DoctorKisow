@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DoctorKisow/DoctorKisow/main/doctorkisow-banner.png" height="200"/>
-</p>
+[![doctorkisow](https://raw.githubusercontent.com/DoctorKisow/DoctorKisow/main/doctorkisow-banner.png)][3]
 
 ## Doctor Kisow
 Information systems professor with a passion for learning and sharing my knowledge with others as publicly as possible.
