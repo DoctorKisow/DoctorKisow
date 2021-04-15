@@ -8,6 +8,12 @@ Information systems professor with a passion for learning and sharing my knowled
 ![](https://img.shields.io/badge/code-PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/code-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
 
+## Applications
+<p>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/apache/index.html"></code>
+</p>  
+
 ## Social Media
 Find me on [![Twitter][1.2]][1], [![Keybase][4.2]][4], or [![LinkedIn][3.2]][3].
 
