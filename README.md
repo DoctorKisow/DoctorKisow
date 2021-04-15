@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DoctorKisow/DoctorKisow/main/DRK.png" height="200"/>
+</p>
+
 ## Doctor Kisow
 Information systems professor with a passion for learning and sharing my knowledge with others as publicly as possible.
 
