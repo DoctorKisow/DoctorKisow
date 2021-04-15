@@ -4,11 +4,11 @@
 Information systems professor with a passion for learning and sharing my knowledge with others as publicly as possible.
 
 ## Skills
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=macOS&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/code-PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/code-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=7353df)
+![](https://img.shields.io/badge/OS-macOS-informational?style=flat&logo=macOS&logoColor=white&color=7353df)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=7353df)
+![](https://img.shields.io/badge/code-PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=7353df)
+![](https://img.shields.io/badge/code-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=7353df)
 
 ## Applications
 <p>
