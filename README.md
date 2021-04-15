@@ -11,7 +11,7 @@ Information systems professor with a passion for learning and sharing my knowled
 ## Applications
 <p>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/nginx/nginx-ar21.svg"></code>
-  <code><img width="15%" src="https://www.vectorlogo.zone/logos/apache/index.html"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/apache/apache-ar21.svg"></code>
 </p>  
 
 ## Social Media
