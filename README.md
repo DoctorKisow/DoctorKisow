@@ -17,9 +17,9 @@ Information systems professor with a passion for learning and sharing my knowled
 </p>  
 
 ## Social Media
-![](https://img.shields.io/badge/Twitter-Social-informational?style=flat&logo=twitter&logoColor=white&color=7353df)
-![](https://img.shields.io/badge/KeyBase-Social-informational?style=flat&logo=keybase&logoColor=white&color=7353df)
-![](https://img.shields.io/badge/LinkedIn-Professional-informational?style=flat&logo=linkedin&logoColor=white&color=7353df)
+[![Twitter](https://img.shields.io/badge/Twitter-Social-informational?style=flat&logo=twitter&logoColor=white&color=7353df)][1]
+[![KeyBase](https://img.shields.io/badge/KeyBase-Social-informational?style=flat&logo=keybase&logoColor=white&color=7353df)][4]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional-informational?style=flat&logo=linkedin&logoColor=white&color=7353df)][3]
 
 <!-- links to social media icons -->
 <!-- icons with padding -->
