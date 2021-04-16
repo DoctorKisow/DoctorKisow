@@ -1,7 +1,7 @@
 [![doctorkisow](https://raw.githubusercontent.com/DoctorKisow/DoctorKisow/main/doctorkisow-banner.png)][3]
 
-## Doctor Kisow
-Information systems professor with a passion for learning and sharing my knowledge with others as publicly as possible.
+## Matthew R. Kisow, D.Sc.
+Matthew is a network engineer and educator whom is passionate about learning and sharing that knowledge with others, as publicly as possible.  Technology has the power to build community, inspire creation and elevate people. I enjoy working with open-source software and open-source projects and endeavor to broaden technology and accessibility to everyone.
 
 ## Skills
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=7353df)
