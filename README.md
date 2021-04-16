@@ -21,6 +21,11 @@ Matthew is a network engineer and educator whom is passionate about learning and
 [![KeyBase](https://img.shields.io/badge/KeyBase-Social-informational?style=flat&logo=keybase&logoColor=white&color=7353df)][4]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Professional-informational?style=flat&logo=linkedin&logoColor=white&color=7353df)][3]
 
+## Education
+Bachelors of Science in Management Information Systems from [Robert Morris University](https://rmu.edu "Robert Morris University") 2008 </br>
+Masters of Science in Internet Information Systems from [Robert Morris University](https://rmu.edu "Robert Morris University") 2008 </br>
+Doctorate of Science in Information Systems and Communications from [Robert Morris University](https://rmu.edu "Robert Morris University") 2011 </br>
+
 <!-- links to social media icons -->
 <!-- icons with padding -->
 [1.1]: http://i.imgur.com/tXSoThF.png "twitter icon with padding"
