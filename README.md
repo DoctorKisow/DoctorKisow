@@ -9,6 +9,7 @@ Matthew is a network engineer and educator whom is passionate about learning and
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=7353df)
 ![](https://img.shields.io/badge/code-PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=7353df)
 ![](https://img.shields.io/badge/code-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=7353df)
+![](https://img.shields.io/badge/code-Bash-informational?style=flat&logo=education&logoColor=white&color=7353df)
 
 ## Applications
 <p>
@@ -45,4 +46,6 @@ Doctorate of Science in Information Systems and Communications from [Robert Morr
 
 <!-- Resources -->
 <!-- Icons: https://simpleicons.org/ -->
+<!-- Icons: http://www.onlinewebfonts.com/ -->
 <!-- Shields: https://shields.io/ -->
+
