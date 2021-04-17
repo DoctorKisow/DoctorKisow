@@ -9,7 +9,8 @@ Matthew is a network engineer and educator whom is passionate about learning and
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=7353df)
 ![](https://img.shields.io/badge/code-PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=7353df)
 ![](https://img.shields.io/badge/code-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=7353df)
-![](https://img.shields.io/badge/code-Bash-informational?style=flat&logo=education&logoColor=white&color=7353df)
+
+![](https://img.shields.io/badge/educator-InformationSystems-informational?style=flat&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAQAAAC1+jfqAAAABGdBTUEAALGPC/xhBQAAAAJiS0dEAACqjSMyAAAACXBIWXMAAC4jAAAuIwF4pT92AAAAB3RJTUUH5QQRExM4wPVSjgAAASFJREFUKM91kT1LQnEYxX/3JkRlLW0NLTU0hYOfoQg3aTAIam5yqTEoiPZobo3ICJwa/QDiUiEGttkLmZR5X/8vT4NXCsvfes7DOTwHgDsA3sb9BXWu6v5KMAPQIEEAiPL62kofU1XF5jQ/dFf1o4TyG2Pb4R4AvWVVkxHor2DLTc25hhE4qbEMUHZ1Rz0MX1uJjj8nWi6HhFlTgWDT3to4EZ/UWT2d1BfiDT+vjzqLoNZ0WT/Hu948RDvmIElS+52MNEXFF41JcXQKegXzLlZKiUGLKkkzyT0J1/Wgz8CgboLtvmGIEoALjievjMQFJ2enzMtfybQB8LMiXs5fMt2hL95/zPYbXIrU0gBBUVVtKLHx4kqvMBgRdRpd/ZedyHwDc7EFbXt9mQMAAAAASUVORK5CYII=&Color=white&color=7353df)
 
 ## Applications
 <p>
@@ -37,6 +38,7 @@ Doctorate of Science in Information Systems and Communications from [Robert Morr
 [2.2]: http://i.imgur.com/9I6NRUm.png "github icon without padding"
 [3.2]: https://raw.githubusercontent.com/DoctorKisow/DoctorKisow/main/linkedin-3-16.png "LinkedIn icon without padding"
 [4.2]: https://raw.githubusercontent.com/DoctorKisow/DoctorKisow/main/keybase-3-16.png "Keybase icon without padding"
+[5.2]: https://raw.githubusercontent.com/DoctorKisow/DoctorKisow/main/education-3-16.png "Keybase icon without padding"
 
 <!-- links to your social media accounts -->
 [1]: https://twitter.com/DoctorKisow
