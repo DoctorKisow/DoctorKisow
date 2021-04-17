@@ -1,7 +1,7 @@
 [![doctorkisow](https://raw.githubusercontent.com/DoctorKisow/DoctorKisow/main/doctorkisow-banner.png)][3]
 
 ## Matthew R. Kisow, D.Sc.
-Matthew is a network engineer and educator whom is passionate about learning and sharing that knowledge with others, as publicly as possible.  Technology has the power to build community, inspire creation and elevate people. I enjoy working with open-source software and open-source projects and endeavor to broaden technology and accessibility to everyone.
+Matthew is a network engineer and educator whom is passionate about learning and sharing his knowledge with others as publicly as possible.  He believes that technology has the power to build community, inspire creation and elevate people to realize their full potential. Matthew enjoys learning about and working with open-source software, operating systems, hardware and building networks.  In the classroom he actively encourages students to participate in their own learning by directing conversation and engaging other students.
 
 ## Skills
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=7353df)
