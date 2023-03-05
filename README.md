@@ -1,6 +1,6 @@
 [![doctorkisow](https://raw.githubusercontent.com/DoctorKisow/DoctorKisow/main/doctorkisow-banner.png)][3]
 
-## Matthew R. Kisow, D.Sc.
+## Dr. Matthew Kisow
 Matthew is a network engineer and educator whom is passionate about learning and sharing his knowledge with others as publicly as possible.  He believes that technology has the power to build community, inspire creation and elevate people to realize their full potential. Matthew enjoys learning about and working with open-source software, operating systems, hardware and building networks.  In the classroom he actively encourages students to participate in their own learning by directing conversation and engaging other students.
 
 ## Skills
