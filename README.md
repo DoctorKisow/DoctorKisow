@@ -1,7 +1,15 @@
 [![doctorkisow](https://raw.githubusercontent.com/DoctorKisow/DoctorKisow/main/doctorkisow-banner.png)][3]
 
 ## Dr. Matthew Kisow
-Matthew is a network engineer and educator whom is passionate about learning and sharing his knowledge with others as publicly as possible.  He believes that technology has the power to build community, inspire creation and elevate people to realize their full potential. Matthew enjoys learning about and working with open-source software, operating systems, hardware and building networks.  In the classroom he actively encourages students to participate in their own learning by directing conversation and engaging other students.
+Matthew Kisow, an Associate Professor of Cybersecurity, joined the Community College of Allegheny County (CCAC) in January 2022. With a wealth of expertise in cybersecurity, networking, and operating system administration, Professor Kisow is dedicated to preparing the next generation of professionals to tackle the evolving challenges of the digital age.<br/><br/>
+
+In his role at CCAC, Professor Kisow teaches a broad range of courses, focusing on theoretical and practical aspects of cybersecurity. His courses cover critical areas such as network security, threat detection and mitigation, system hardening, incident response, and the ethical implications of cybersecurity practices. His teaching methodology integrates lectures, hands-on labs, and multimedia resources, ensuring a dynamic and engaging learning environment. Through this comprehensive approach, he emphasizes the application of cutting-edge technologies, processes, and controls to safeguard systems, networks, programs, devices, and data from increasingly sophisticated cyber threats.<br/><br/>
+
+Professor Kisow’s educational philosophy centers on providing students with real-world skills and knowledge immediately applicable in the field. He leverages his extensive experience to offer insights into current industry trends, emerging technologies, and best practices for cybersecurity defense. His curriculum is designed to reflect the rapidly changing landscape of cybersecurity, preparing students to adapt to new tools, threats, and regulatory requirements in their future careers.<br/><br/>
+
+In addition to his work in the classroom, Professor Kisow remains active in the broader cybersecurity community. He collaborates with industry professionals, participates in cybersecurity forums, and is committed to continuous professional development. His involvement in these activities ensures that his teaching remains aligned with current industry standards and prepares students to meet the demands of a highly competitive job market.<br/><br/>
+
+Professor Kisow’s passion for cybersecurity education and commitment to student success make him an invaluable member of the CCAC faculty. He strives to empower his students with the knowledge, skills, and critical thinking abilities they need to become leaders in the cybersecurity field.
 
 ## Skills
 ![](https://img.shields.io/badge/OS-Linux-informational?style=plastic&logo=linux&logoColor=white&color=7353df)
